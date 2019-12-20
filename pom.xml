@@ -21,11 +21,11 @@
      <distributionManagement>
           <repository>
         <id>releases</id>
-        <url>https://github.com/fanyblanche/mount-back-end-architecture-</url>
+        <url>https://github.com/fanyblanche/projet-innovant</url>
           </repository>
         <snapshotRepository>
         <id>snapshots</id>
-        <url>https://github.com/fanyblanche/mount-back-end-architecture-</url>
+        <url>https://github.com/fanyblanche/projet-innovant</url>
         </snapshotRepository>
       </distributionManagement>
 	
