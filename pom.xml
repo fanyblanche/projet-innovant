@@ -23,6 +23,10 @@
         <id>releases</id>
         <url>https://github.com/fanyblanche/projet-innovant</url>
           </repository>
+	      < snapshotRepository >
+        < id > instantanés </ id >
+        < url > https://github.com/fanyblanche/ projet-innovant </ url >
+        </ snapshotRepository >
       </distributionManagement>
 	
 	<dependencies>
