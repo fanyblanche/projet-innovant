@@ -17,18 +17,6 @@
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
-	
-     <distributionManagement>
-          <repository>
-        <id>releases</id>
-        <url>https://github.com/fanyblanche/projet-innovant</url>
-          </repository>
-	      < snapshotRepository >
-        < id > instantanés </ id >
-        < url > https://github.com/fanyblanche/ projet-innovant </ url >
-        </ snapshotRepository >
-      </distributionManagement>
-	
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
